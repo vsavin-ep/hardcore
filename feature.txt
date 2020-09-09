@@ -1,1 +1,3 @@
 the first row in feature.txt for the first commit in feature branch
+
+the second row for the second commit
